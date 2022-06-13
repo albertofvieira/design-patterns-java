@@ -1,0 +1,2 @@
+# Adapter Pattern 
+> Provides the **interface** according to client requirement while using the services of a class with a **different interface**. This pattern is also known as **Wrapper**. It is design to enable two or more previously incompatible objects to **interact** with each other.

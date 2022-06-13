@@ -1,0 +1,2 @@
+# Facade Pattern
+> Describes a **high-level** interface that makes the subsystem easier to user. Every **Abstract Factory** is a Facade Design Pattern. It protects the end-users from the complex sub-system components.
